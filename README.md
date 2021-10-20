@@ -2,6 +2,10 @@
 
 [![Build Status](https://github.com/julkramer3g/docker_template_cgr/workflows/main.yml/badge.svg)](https://github.com/julkramer3g/docker_template_cgr/actions)
 
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+
+![Build Status](https://github.com/JulKramer3G/Docker_Template_GCR/actions/workflows/main.yml/badge.svg)
+
 Docker template repository, for automatic container / package generation for GitHub Container Registry.
 
 ### Note: Private repositories
