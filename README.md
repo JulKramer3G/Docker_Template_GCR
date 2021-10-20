@@ -1,6 +1,6 @@
 # DOCKER_TEMPLATE_GitHub_Container_Registry
 
-[![Build Status](https://github.com/julkramer3g/docker_template_cgr/workflows/main/badge.svg)](https://github.com/julkramer3g/docker_template_cgr/actions)
+[![Build Status](https://github.com/julkramer3g/docker_template_cgr/workflows/main.yml/badge.svg)](https://github.com/julkramer3g/docker_template_cgr/actions)
 
 Docker template repository, for automatic container / package generation for GitHub Container Registry.
 
