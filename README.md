@@ -13,7 +13,7 @@ To pull private repositories, you have to create a access token first, go to htt
 
 Save your token to an environment variable:
 ```
-export CR_PAT=YOUR_TOKEN
+$ export CR_PAT=YOUR_TOKEN
 ```
 
 Login to GitHub container registry using:
